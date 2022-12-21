@@ -1,1 +1,3 @@
 # ITC_Assignments
+# Assignments are ordered in folders: 1,2... and so on
+# each question is labeled in order with an alphabet Qn1 = a, Qn2 = b......
