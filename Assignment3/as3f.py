@@ -2,8 +2,8 @@
 #from collections import OrderedDict
 #from operator import itemgetter
 
-conti = False #change later
-list_students = {1:'z',2:'a', 3:'b' }
+conti = True
+list_students = {}
 while conti: 
     list_students[int(input("Enter SID : "))] = ' '.join(input("Enter name : ").split()) #computes name first then sid
     yn = input("Add more entries(Y/N): ").lower()
