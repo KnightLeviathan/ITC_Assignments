@@ -16,6 +16,6 @@ class Validity:
             
             #else: self.valid = 'No Opening Bracks.'
 
-idk = Validity(input())
+idk = Validity(input('Enter brackets: '))
 idk.IsValid()
 print(idk.valid)

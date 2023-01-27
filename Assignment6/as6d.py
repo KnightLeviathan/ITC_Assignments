@@ -15,5 +15,5 @@ def Pangram(str1):
 
 
 
-if(Pangram(input())) : print('Pangram.')
+if(Pangram(input('Enter a string: '))) : print('Pangram.')
 else:print('not a Pangram.')
